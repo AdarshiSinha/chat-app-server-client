@@ -1,0 +1,15 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.messages {
+  border: 1px solid #000;
+  height:18rem;
+  width:25rem;
+  padding: 5px;
+}
