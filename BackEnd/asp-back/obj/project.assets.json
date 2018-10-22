@@ -13577,11 +13577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Adarshi\\Downloads\\SignalR-BackEnd\\SignalR-BackEnd\\BackEnd\\asp-back\\asp-back.csproj",
+      "projectUniqueName": "C:\\Users\\Adarshi\\Desktop\\chat-app-server-client\\BackEnd\\asp-back\\asp-back.csproj",
       "projectName": "asp-back",
-      "projectPath": "c:\\Users\\Adarshi\\Downloads\\SignalR-BackEnd\\SignalR-BackEnd\\BackEnd\\asp-back\\asp-back.csproj",
+      "projectPath": "C:\\Users\\Adarshi\\Desktop\\chat-app-server-client\\BackEnd\\asp-back\\asp-back.csproj",
       "packagesPath": "C:\\Users\\Adarshi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Adarshi\\Downloads\\SignalR-BackEnd\\SignalR-BackEnd\\BackEnd\\asp-back\\obj\\",
+      "outputPath": "C:\\Users\\Adarshi\\Desktop\\chat-app-server-client\\BackEnd\\asp-back\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
